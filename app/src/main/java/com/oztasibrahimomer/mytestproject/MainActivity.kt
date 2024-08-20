@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
                             horizontalAlignment = Alignment.CenterHorizontally
                         ){
                             Text(text = "This Project is first githup project")
+                            Text(text = "Change is controlling!!")
                         }
                     }
                 }
